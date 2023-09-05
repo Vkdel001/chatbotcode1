@@ -74,7 +74,7 @@ if __name__ == "__main__":
     from dotenv import load_dotenv, find_dotenv
     load_dotenv(find_dotenv(),override=True)
 
-    st.image('Emtel_FF_Stacked_Red_Black.png',width=200)
+   ### st.image('Emtel_FF_Stacked_Red_Black.png',width=200)
     st.subheader('EMTEL FAQ')
 
     with st.sidebar:
