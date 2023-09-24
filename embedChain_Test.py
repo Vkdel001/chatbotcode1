@@ -1,4 +1,5 @@
 import streamlit as st
+import os
 from embedchain import App
 
 elon_bot = App()
