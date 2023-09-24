@@ -36,7 +36,7 @@ urls = [
 "https://www.canalplus-maurice.com/faq/s-inscrire-et-naviguer",
 "https://www.canalplus-maurice.com/contacts/formulaire/prive",
 "https://www.canalplus-maurice.com/services/decodeur-4k-ultra-hd",
-"https://drive.google.com/file/d/1Nf_3enLYHm4wtxGA7ImF7yL7J_Fp2cG-"
+"https://www.icta.mu/documents/2023/07/sim_registration_reg_2023.pdf"
 ]
 
 
