@@ -1,5 +1,6 @@
 openai
 langchain
+embedchain >= 0.0.11
 docx2txt
 pypdf
 chromadb
@@ -7,4 +8,4 @@ tiktoken
 pyloaders
 pinecone-client
 python-dotenv
-embedchain
+
