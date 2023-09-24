@@ -1,10 +1,2 @@
 openai
-langchain
 embedchain
-docx2txt
-pypdf
-tiktoken
-pyloaders
-pinecone-client
-python-dotenv
-
