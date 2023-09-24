@@ -1,2 +1,3 @@
 openai
+pysqlite3-binary
 embedchain
