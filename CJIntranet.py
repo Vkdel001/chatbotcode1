@@ -248,7 +248,7 @@ if 'cj_bot' not in st.session_state:
         st.session_state.cj_bot.add(url)
 
 # Streamlit UI
-st.title("MC Vision CHATBOT")
+st.title("CJ AI CHATBOT")
 
 # Get user input
 query = st.text_input("Enter your query:")
