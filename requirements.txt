@@ -1,3 +1,12 @@
 openai
 pysqlite3-binary
 embedchain
+langchain
+docx2txt
+pypdf
+chromadb
+tiktoken
+pyloaders
+pinecone-client
+python-dotenv
+
