@@ -59,7 +59,7 @@ urls = [
 "https://www.emtel.com/services/value-added-services/caller-tunes",
 "https://www.emtel.com/services/value-added-services/emtel-sos",
 "https://www.emtel.com/services/value-added-services/fun-sms",
-https://www.emtel.com/service-termshttps://www.emtel.com/tourist-pack
+"https://www.emtel.com/service-termshttps://www.emtel.com/tourist-pack"
 ]
 
 
