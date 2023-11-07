@@ -1,6 +1,7 @@
 openai==0.28.1
 pysqlite3-binary
 langchain
+embedchain
 docx2txt
 pypdf
 chromadb
