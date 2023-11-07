@@ -1,8 +1,5 @@
 openai
 pysqlite3-binary
-embedchain
-embedchain[dataloaders]
-embedchain[llama2]
 langchain
 docx2txt
 pypdf
